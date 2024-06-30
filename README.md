@@ -1,7 +1,7 @@
 Name : SRUJANA CHINTHA 
 Company : CODTECH IT SOLUTIONS
 Domain : WEB DEVELOPMENT
-Duration : JUNE 1st to JULY 1st
+Duration : JUNE 1st to JULY 1st 2024
 Mentor : SRAVANI GOUNI
 
 Project Overview
